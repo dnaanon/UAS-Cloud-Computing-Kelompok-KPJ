@@ -1,6 +1,6 @@
 # Cloud Computing Project
 
-## Minggu 1 - Setup Docker, Database, Network, dan WordPress
+## Minggu 1 - Minggu 1 - Setup WordPress, MariaDB, Network Isolation
 Services :
 - WordPress
 - MariaDB
