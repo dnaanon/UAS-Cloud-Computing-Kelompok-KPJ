@@ -1,16 +1,14 @@
 # Cloud Computing Project
 
-## Services
-
+## Minggu 1 - Setup Docker, Database, Network, dan WordPress
+Services :
 - WordPress
 - MariaDB
 
-## Networks
-
+Networks :
 - frontend-net
 - backend-net
 
-## Run
-
+Run :
 ```bash
 docker compose up -d
