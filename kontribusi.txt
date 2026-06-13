@@ -1,4 +1,5 @@
 Minggu 1:
  Kelompok kepanjen:
-                1. Anggraini Fitri_240403010006
-                2. Dinda Imannona_240403010007
+                1. Anggraini Fitri_240403010006:1. membuat file .yml, .gitignore, .env.example
+                                                2. running
+                2. Dinda Imannona_240403010007: 1. membuat file .txt, dokumentasi
