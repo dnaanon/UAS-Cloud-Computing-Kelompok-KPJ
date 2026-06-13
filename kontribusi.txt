@@ -1,6 +1,8 @@
-Minggu 1 - 
-    1. Anggraini Fitri (240403010006):  1. Membuat file .yml, .gitignore, .env.example
-                                        2. Proses running
-    2. Dinda Imannona (240403010007) :  1. Membuat repository GitHub 
-                                        2. Membuat file .txt
-                                        3. Membantu pengumpulan screenshot
+KONTRIBUSI ANGGOTA KELOMPOK KEPANJEN
+-------------------------------------------------------------------------------------------
+Minggu 1 - Setup Docker, Database, Network, dan WordPress :
+    1. Anggraini Fitri (240403010006) :   1. Membuat file .yml, .gitignore, .env.example
+                                          2. Proses running
+    2. Dinda Imannona (240403010007)  :   1. Membuat repository GitHub 
+                                          2. Membuat file .txt
+                                          3. Membantu pengumpulan screenshot 
