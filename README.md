@@ -1,4 +1,4 @@
-# Cloud Computing Project
+# Cloud Computing Project - Kelompok Kepanjen
 
 ## Minggu 1 - Setup WordPress, MariaDB, Network Isolation
 Services :
