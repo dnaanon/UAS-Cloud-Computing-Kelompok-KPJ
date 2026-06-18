@@ -1,4 +1,8 @@
-Minggu 1:
- Kelompok kepanjen:
-                1. Anggraini Fitri_240403010006
-                2. Dinda Imannona_240403010007
+KONTRIBUSI ANGGOTA KELOMPOK KEPANJEN
+-------------------------------------------------------------------------------------------
+Minggu 1 - Setup WordPress, MariaDB, Network Isolation :
+    1. Anggraini Fitri (240403010006) :   1. Membuat file .yml, .gitignore, .env.example
+                                          2. Proses running
+    2. Dinda Imannona (240403010007)  :   1. Membuat repository GitHub 
+                                          2. Membuat file .txt
+                                          3. Membantu pengumpulan screenshot 

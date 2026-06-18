@@ -1,16 +1,14 @@
-# Cloud Computing Project
+# Cloud Computing Project - Kelompok Kepanjen
 
-## Services
-
+## Minggu 1 - Setup WordPress, MariaDB, Network Isolation
+Services :
 - WordPress
 - MariaDB
 
-## Networks
-
+Networks :
 - frontend-net
 - backend-net
 
-## Run
-
+Run :
 ```bash
 docker compose up -d
