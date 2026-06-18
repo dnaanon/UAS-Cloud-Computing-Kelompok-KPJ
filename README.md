@@ -10,11 +10,11 @@ Services :
 Networks :
 - frontend-net
 - backend-net
-```
+
 Run :
-```bash
 docker compose up -d
 ```
+
 ```bash
 Minggu 2 - Redis Container & MinIO Integration
 Penambahan Services
