@@ -15,3 +15,13 @@ Minggu 2 - Redis Container, Redis Object Cache, MinIO Container, Bucket wordpres
     2. Dinda Imannona (240403010007)  :   1. Install Redis
                                           2. Membuat Bucket Wordpress-media
                                           3. Membantu pengumpulan screenshot Minggu 2
+
+
+Minggu 3 - Security Hardening &  env Configuration
+    1. Anggraini Fitri (240403010006) :   1. Melakukan hardening keamanan dengan memindahkan credential ke file .env
+                                          2. Menguji kembali container setelah penerapan konfigurasi keamanan
+                                          3. Melakukan pengujian fungsionalitas WordPress setelah perubahan konfigurasi
+    2. Dinda Imannona (240403010007)  :   1. Memeriksa dokumentasi dan konfigurasi keamanan proyek
+                                          2. Membantu validasi implementasi file .env
+                                          3. Memastikan seluruh layanan berjalan normal setelah hardening
+                                          4. Membantu pengumpulan screenshot Minggu 3
