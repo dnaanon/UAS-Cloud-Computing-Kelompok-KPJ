@@ -33,3 +33,23 @@ Update Project
 - Konfigurasi WordPress agar terhubung dengan Redis  
 - Membuat bucket `wordpress-media` di MinIO  
 - Push perubahan ke GitHub
+```
+
+```bash
+Minggu 3 - Security Hardening & Environment Configuration
+Peningkatan Keamanan
+- Implementasi file .env untuk menyimpan credential layanan
+- Pemisahan informasi sensitif dari docker-compose.yml
+
+Fitur yang Ditambahkan
+- Penggunaan environment variables pada konfigurasi WordPress
+- Penggunaan environment variables pada konfigurasi MariaDB
+- Penggunaan environment variables pada konfigurasi MinIO
+
+Update Project
+- Membuat file .env untuk menyimpan credential database dan MinIO
+- Memindahkan credential dari docker-compose.yml ke file .env
+- Memperbarui konfigurasi docker-compose.yml agar menggunakan environment variables
+- Melakukan pengujian ulang WordPress setelah perubahan konfigurasi
+- Memastikan WordPress dapat berjalan normal setelah penerapan security hardening
+- Push perubahan ke GitHub
