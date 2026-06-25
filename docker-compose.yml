@@ -1,4 +1,4 @@
-services: 
+services:
 
   wordpress:
     image: wordpress:latest
@@ -61,11 +61,14 @@ services:
     container_name: wordpress-minio
     restart: always
 
+    env_file:
+      - .env
+
     command: server /data --console-address ":9001"
 
     environment:
-      MINIO_ROOT_USER: admin
-      MINIO_ROOT_PASSWORD: admin12345
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
 
     ports:
       - "9000:9000"
