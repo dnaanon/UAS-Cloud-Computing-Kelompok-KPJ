@@ -1,8 +1,17 @@
 KONTRIBUSI ANGGOTA KELOMPOK KEPANJEN
 -------------------------------------------------------------------------------------------
-Minggu 1 - Setup WordPress, MariaDB, Network Isolation :
+Minggu 1 - Setup WordPress, MariaDB, Network Isolation, GitHub :
     1. Anggraini Fitri (240403010006) :   1. Membuat file .yml, .gitignore, .env.example
                                           2. Proses running
     2. Dinda Imannona (240403010007)  :   1. Membuat repository GitHub 
                                           2. Membuat file .txt
-                                          3. Membantu pengumpulan screenshot 
+                                          3. Membantu pengumpulan screenshot Minggu 1
+                                          4. Membantu setup struktur folder
+                                          
+
+Minggu 2 - Redis Container, Redis Object Cache, MinIO Container, Bucket wordpress-media, Update GitHub
+    1. Anggraini Fitri (240403010006) :   1. Update file .yml
+                                          2. Menjalankan lanjutan program
+    2. Dinda Imannona (240403010007)  :   1. Install Redis
+                                          2. Membuat Bucket Wordpress-media
+                                          3. Membantu pengumpulan screenshot Minggu 2
