@@ -17,7 +17,7 @@ Minggu 2 - Redis Container, Redis Object Cache, MinIO Container, Bucket wordpres
                                           3. Membantu pengumpulan screenshot Minggu 2
 
 
-Minggu 3 - Security Hardening &  env Configuration
+Minggu 3 - Security Hardening & env Configuration
     1. Anggraini Fitri (240403010006) :   1. Melakukan hardening keamanan dengan memindahkan credential ke file .env
                                           2. Menguji kembali container setelah penerapan konfigurasi keamanan
                                           3. Melakukan pengujian fungsionalitas WordPress setelah perubahan konfigurasi
